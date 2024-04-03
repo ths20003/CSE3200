@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Lab_2</string>
-    <string name="button_increment_score">Increment Score</string>
-    <string name="button_reset_score">Reset Score</string>
-    <string name="button_next_question">Next Question</string>
-    <string name="button_reset_questions">Reset Questions</string>
-</resources>
