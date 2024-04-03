@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/home_navigation">
+
+    <fragment
+        android:id="@+id/home_navigation"
+        android:name="com.example.midtermproject.home.FragmentHome"
+        android:label="Timer 1"
+        tools:layout="@layout/home" />
+
+    <fragment
+        android:id="@+id/dashboard_navigation"
+        android:name="com.example.midtermproject.db.FragmentDB"
+        android:label="Timer 2"
+        tools:layout="@layout/dashboard" />
+
+    <fragment
+        android:id="@+id/notification_navigation"
+        android:name="com.example.midtermproject.notification.FragmentNotifications"
+        android:label="Timer 3"
+        tools:layout="@layout/notification" />
+</navigation>

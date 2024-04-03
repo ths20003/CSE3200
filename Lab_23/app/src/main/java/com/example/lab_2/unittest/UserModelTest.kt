@@ -14,7 +14,7 @@ class UserModelTest {
     }
 
     @Test
-    fun testSetUserId() {
+    fun testSetUserId()  {
         val userModel = UserModel()
 
         userModel.setUserId("example_user")

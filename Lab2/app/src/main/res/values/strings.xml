@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="score_message">Your score is %d</string>\
+    <string name="start_quiz">Start Quiz</string>
+</resources>
