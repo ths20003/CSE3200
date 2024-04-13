@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RadioPlayer</string>
+    <string name="radio1_name">Rock Radio</string>
+    <string name="radio1_link">http://streaming.dansvillemedia.com/wdnyfm-proc.mp3</string>
+    <string name="radio2_name">Country Radio</string>
+    <string name="radio2_link">http://sc1.netstreamer.net:8100</string>
+    <string name="radio3_name">Pop Radio</string>
+    <string name="radio3_link">https://tx.planetradio.co.uk/http_live_bauerdk.php</string>
+    <string name="radio4_name">Reggaeton Radio</string>
+    <string name="radio4_link">http://cdn.nrjaudio.fm/adwz1/de/56219/mp3_128.mp3</string>
+    <string name="radio5_name">HipHop Radio</string>
+    <string name="radio5_link">https://live.powerhitz.com/1power</string>
+</resources>
