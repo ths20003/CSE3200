@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <VideoView
+        android:id="@+id/videoView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_margin="16dp"/>
+
+    <Button
+        android:id="@+id/play_video_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Play Video"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="16dp"/>
+
+    <Button
+        android:id="@+id/toggle_video_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Next Video"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="16dp"/>
+
+    <Button
+        android:id="@+id/play_audio_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Play Audio"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="16dp"/>
+
+    <Button
+        android:id="@+id/toggle_audio_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Next Audio"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="16dp"/>
+
+</LinearLayout>
