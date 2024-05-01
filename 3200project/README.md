@@ -16,7 +16,11 @@ Launch via Android Studio in Midterm and hit Run
 https://streamable.com/mrabdp
 ```
 
+# Link to Diagram
 
+```shell
+https://docs.google.com/document/d/15kVh1ZI6ZlszML9_5oa80H26kdf-nSiiWv2xoLxqdf0/edit?usp=sharing
+```
 
 
 
